@@ -1,0 +1,2 @@
+# Whatsapp Automation Software
+Simple automation software written in Go with existing non-official GO-Whatsapp sdk. This particular software can help send bulk messages to people whose details are stored in the .txt file. 
